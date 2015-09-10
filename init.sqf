@@ -1,0 +1,1 @@
+[] execVM "BushiDo\hpp\distance\init.sqf";
